@@ -42,7 +42,7 @@ There are two sections to the returned data - Columns (containing the names of e
 
 ```json
 {
-	rows: [
+	"rows": [
 		{
 			"team": "Barcelona",
 			"rank": "1"
