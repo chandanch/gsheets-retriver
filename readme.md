@@ -44,16 +44,16 @@ There are two sections to the returned data - Columns (containing the names of e
 {
 	rows: [
 		{
-			team: "Barcelona",
-			rank: "1"
+			"team": "Barcelona",
+			"rank": "1"
 		},
 		{
-			name: "Madrid ",
-			rank: "2"
+			"name": "Madrid ",
+			"rank": "2"
 		},
 		{
-			name: "Valcencia",
-			age: "4"
+			"name": "Valcencia",
+			"age": "4"
 		}
 	]
 }
